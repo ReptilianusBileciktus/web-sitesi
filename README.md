@@ -1,2 +1,2 @@
 # web-sitesi
-bir nevi cv
+henüz hazır değil
